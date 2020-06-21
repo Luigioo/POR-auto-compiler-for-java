@@ -1,0 +1,16 @@
+Compile all your .jave files(in different folders!) into .class files in a seperate directory!!!
+
+how to use:
+
+  copy&paste por.bat under your java project folder
+  double click the file and ...
+  that's it! you can find your compilations under .\bin
+  
+  or, you can add por to your environment path and run using the keyword "por"...under your project directory
+  
+it can also run your main class conveniently;
+  just type:
+    por your_package_name_+_main_class_name
+  for example
+    por com.git.Main
+  "com.git"is the package that Main.class is in
